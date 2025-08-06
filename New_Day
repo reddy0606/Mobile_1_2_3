@@ -1,0 +1,73 @@
+{
+  "total": 1,
+  "data": [
+    {
+      "status": "alive",
+      "updated_by": {
+        "$oid": "555b7617ee9d9d367f7e6f36"
+      },
+      "passwd": "******",
+      "ip": "10.37.163.86",
+      "created_at": {
+        "$date": 1727740857621
+      },
+      "updated_at": {
+        "$date": 1728342002592
+      },
+      "used_for": "automation",
+      "owner": {
+        "status": "active",
+        "first_name": "siddhant.tiwari",
+        "last_name": "",
+        "display_name": "siddhant.tiwari",
+        "rdm_config": {
+
+        },
+        "roles": [
+          "Engineer",
+          "Admin",
+          "SuperAdmin",
+          "Manager"
+        ],
+        "is_user_group": false,
+        "created_at": {
+          "$date": 1690377919799
+        },
+        "title": "Member of Technical Staff - 1",
+        "updated_at": {
+          "$date": 1711197528406
+        },
+        "updated_by": {
+          "$oid": "56304acac170346018ac941f"
+        },
+        "reports_to": "569674197e6e2117ab87c760",
+        "last_login_time": {
+          "$date": 1754384303049
+        },
+        "last_login": {
+          "$date": 1754384303300
+        },
+        "preference": {
+
+        },
+        "location": "Unknown",
+        "permissions": {
+
+        },
+        "_id": {
+          "$oid": "64c130729627e5c76e38a232"
+        },
+        "user_name": "siddhant.tiwari",
+        "email": "siddhant.tiwari@nutanix.com",
+        "backend": "jarvis.ldap_backend.LDAPBackend"
+      },
+      "version": "7.0.3",
+      "user": "administrator@vsphere.local",
+      "is_managed": true,
+      "_id": {
+        "$oid": "66fc0b344dd192e430bf9139"
+      }
+    }
+  ],
+  "success": true
+}
